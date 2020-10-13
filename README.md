@@ -50,8 +50,6 @@
 
 [![TechJob Hunter][product-screenshot]](https://i.ibb.co/NTHFdv1/2020-10-13-3-11-09.png)
 
-
-
 ### Built With
 
 - [Front End: Bootstrap 4.5](https://getbootstrap.com/)
@@ -106,8 +104,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 ## Credits
 
-
-
 <!-- LICENSE -->
 
 ## License
@@ -118,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Clair Gu - [Personal Website - clairgu.me](https://www.clairgu.me) 
+Clair Gu - [Personal Website - clairgu.me](https://www.clairgu.me)
 
 Project Link: [https://github.com/clairyitinggu](https://github.com/github_username/repo_name)
 
@@ -145,4 +141,4 @@ Project Link: [https://github.com/clairyitinggu](https://github.com/github_usern
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.ibb.co/NTHFdv1/2020-10-13-3-11-09.png
