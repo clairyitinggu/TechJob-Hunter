@@ -56,21 +56,22 @@
 - [Back End: Java with Apache Maven](http://maven.apache.org/what-is-maven.html)
 - [Other: JQuery, AWS EC2, AWS RDS]()
 
+### Highlights
+
+- [Content-based recommendation]()
+- [Keyword Extraction by Monkey Learn ]()
+- [RESTful API, AJAX]()
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+#### Software :
 
-- npm
-
-```sh
-npm install npm@latest -g
-```
+Eclipse IDE for Enterprise Java Developers
+Apache Tomcat
 
 ### Installation
 
@@ -80,19 +81,13 @@ npm install npm@latest -g
 git clone https://github.com/clairyitinggu/TechJob-Hunter.git
 ```
 
-2. Install NPM packages
+2. Install packages
 
-```sh
-npm install
-```
+Right click project under Project Explorer, and under Run As, click Maven install to allow Maven rebuild the project.
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 
@@ -103,6 +98,10 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 
 ## Credits
+
+- [Google Fonts]()
+- [LineAwesome Icons](https://icons8.com/line-awesome/cheatsheet)
+- [Slick Carousel](http://kenwheeler.github.io/slick/)
 
 <!-- LICENSE -->
 
@@ -119,12 +118,6 @@ Clair Gu - [Personal Website - clairgu.me](https://www.clairgu.me)
 Project Link: [https://github.com/clairyitinggu](https://github.com/github_username/repo_name)
 
 <!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- []()
-- []()
-- []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
